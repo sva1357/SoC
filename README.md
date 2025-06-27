@@ -1,6 +1,6 @@
 #  SoC Summer Project: OpenAI Gym - Flappy Bird
 
-This repository contains my summer project as part of the **SoC (Summer of Code)** initiative. The goal was to understand reinforcement learning and apply it to train an agent to play Flappy Bird using a custom OpenAI Gym environment.
+This repository contains my summer project as part of the **SoC (Seasons of Code)** initiative. The goal was to understand reinforcement learning and apply it to train an agent to play Flappy Bird using a custom OpenAI Gym environment.
 
 ---
 
